@@ -1,6 +1,6 @@
 # APD-Application
-Technical Application for APD interview
+Technical Application
 
-I have previously used multi-threading in applications but I did have to use the web to re-affirm my understanding.
+This program shows basic use of multi-threading, it generates a random animal object and then does some basic maths equations.
 
-I hope this answers the questions!:)
+
